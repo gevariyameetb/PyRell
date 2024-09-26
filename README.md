@@ -11,4 +11,4 @@ In addition, the tool automatically sends an email with the HTML and CSV reports
 All these features can be triggered with a single click, provided the system or IDE is properly configured and set up.
 
 <h1>Usages:</h1>
-PyRell is ideal for companies or individuals looking to execute large sets of APIs rapidly, providing detailed reports and notifications via email with just a single click. It is a powerful tool for ensuring the smooth functioning of a product, platform, or system by identifying and resolving issues efficiently, helping to maintain a bug-free environment.
+PyRell is ideal for companies or individuals who looking to execute large sets of APIs rapidly, providing detailed reports and notifications via email with just a single click. It is a powerful tool for ensuring the smooth functioning of a product, platform, or system by identifying and resolving issues efficiently, helping to maintain a bug-free environment.
