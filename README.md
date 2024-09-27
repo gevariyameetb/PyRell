@@ -31,6 +31,6 @@ In this context, PyRell executes in approximately 3 to 4 minutes when run in par
 
 <br>
 
-Even when PyRell is executed sequentially, it still takes less time compared to Postman, Newman, and Insomnia, thanks to its seamless backend integration. Additionally, it provides comprehensive reports and email notifications within that timeframe.
+Even when PyRell is executed sequentially, it still takes less time compared to Postman, Newman, and Insomnia, due to its seamless backend integration. Additionally, it provides comprehensive reports and email notifications within that timeframe.
 
 <br>
