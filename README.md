@@ -14,6 +14,7 @@ All these features can be triggered with a single click, provided the system or 
 PyRell is ideal for companies or individuals who looking to execute large sets of APIs rapidly, providing detailed reports and notifications via email with just a single click. It is a powerful tool for ensuring the smooth functioning of a product, platform, or system by identifying and resolving issues efficiently, helping to maintain a bug-free environment.
 
 <h1>Performance</h1>
+
 This performance compares 1,000 assertions/API calls using the most popular trending tools Postman, Newman, and Insomnia. Notably, only PyRell supports parallel execution, along with comprehensive reporting and email notifications, the other tools only facilitate sequential execution.
 
 <br>
